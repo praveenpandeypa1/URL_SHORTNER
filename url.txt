@@ -1,0 +1,15 @@
+task: Design a url shortner service that takes in a valid URL andd return the shortened URL
+redirecting the user to previously  providede url:
+
+also keep tracks of total visit in the url:
+
+Routes:
+
+Post/URL= generate a new short url and return the shortened URl
+
+Get=: redirect the user to original URL:
+
+eg: Bitly a popular url shotner service:
+
+ here we give our URL and it returns us the shortened URl to us:
+ 
