@@ -30,6 +30,12 @@ npm start
 The server will start running on http://localhost:8000.
 
 Usage
+
+Contributing
+Contributions to the project are welcome. Please follow the standard fork and pull request workflow.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 Creating a Shortened URL
 Navigate to http://localhost:8000 and enter the URL you wish to shorten in the provided form. Upon submission, the application will display the shortened URL.
 
