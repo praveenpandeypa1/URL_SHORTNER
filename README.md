@@ -9,7 +9,7 @@ Responsive design: The application is styled to be responsive, making it accessi
 Technologies Used
 Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine.
 Express: A minimal and flexible Node.js web application framework.
-MongoDB: A NoSQL database for storing URL mappings and access counts.
+MongoDB: A NoSQL database for storing URL mappings and access counts. 
 EJS: A templating language to generate HTML markup with plain JavaScript.
 CSS: For styling the application.
 Setup and Installation
